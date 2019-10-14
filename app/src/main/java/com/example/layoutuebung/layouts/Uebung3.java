@@ -12,5 +12,7 @@ public class Uebung3 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.layout_uebung_3);
+
+        getSupportActionBar().setTitle("Aufgabe 3");
     }
 }

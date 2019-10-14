@@ -12,24 +12,24 @@
        android:id="@+id/button_uebung1"
        android:layout_width="match_parent"
        android:layout_height="wrap_content"
-       android:text="uebung1" />
+       android:text="Aufgabe 1" />
 
     <Button
         android:id="@+id/button_uebung2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="uebung1" />
+        android:text="Aufgabe 2" />
 
     <Button
         android:id="@+id/button_uebung3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="uebung1" />
+        android:text="Aufgabe 3" />
 
     <Button
         android:id="@+id/button_uebung4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="uebung1" />
+        android:text="Aufgabe 4" />
 
 </LinearLayout>
